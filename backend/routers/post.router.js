@@ -45,7 +45,7 @@ function emailposting(name, email, message) {
 
     const html = `
     <div style="font-family: Arial, sans-serif; background-color: #f7f7f7; padding: 20px;">
-      <h2 style="color: #333;">New Connection Request - Law Connect</h2>
+      <h2 style="color: #333;">New Connection Request </h2>
       <p>Hello,</p>
       <p>You have received a new connection request from:</p>
       <p><strong>Name:</strong> ${name}</p>
